@@ -63,22 +63,20 @@ header{
 
 /* Media Queries(Medium Devices) */
 @media screen and (max-width:1024px){
-  .header{
+  header{
     height:68vh;
   }  
 }
 
 @media only screen 
-  and (min-device-width: 375px) 
-  and (max-device-width: 812px) 
-  and (-webkit-min-device-pixel-ratio: 3) { 
+and (max-width:600px) { 
 
 
-   .header{
+   header{
     height:100vh;
-   } 
+ }
 
-   .scroll__down{
+   .header__socials{
     display:none;
    }
 }

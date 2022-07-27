@@ -2,7 +2,8 @@ import React from 'react'
 import './header.css'
 import CTA from '../CTA'
 import image from '../../Files/IMG.jpg'
-import HeaderSocials from '../HeaderSocials'
+import { IoLogoLinkedin } from 'react-icons/io'
+import{GrGithub} from'react-icons/gr'
 
 const Header = () => {
   return (
@@ -12,13 +13,14 @@ const Header = () => {
       <h1>Dipo Ojo</h1>
       <h5 className="text-light">Front-end Developer</h5>
       <CTA/>
-      <HeaderSocials />
       <div className="me">
         <img src={image}alt=""/>
       </div>
-       
-       {/* <a href="#contact" className="scroll__down">Scroll down</a> */}
       </div>
+      <div className="header__socials">
+    <a href="https://www.linkedin.com/in/dipo-ojo-29957112a/" target="_blank"> <IoLogoLinkedin /></a>
+    <a href="https://github.com/Dipocbd" target="_blank"><GrGithub /></a>
+    </div>
     </header>
   )
 }
