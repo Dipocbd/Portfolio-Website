@@ -12,11 +12,11 @@
 
 html{
   scroll-behavior: smooth;
-  --bg-color:#1f1f38;
-  --bg-color-variant:#2c2c6c;
-  --primary-color-variant:rgba(77,181,255,0.4);
+  --bg-color:#0b4141;
+  --bg-color-variant:#0b412f;
+  --primary-color-variant:rgba(143,188,143);
   --white-color:#fff;
-  --light-color:rgba(255,255,255,0.6);
+  --light-color:#c2b490;
 
 
   --container-width-lg:75%;
@@ -110,6 +110,9 @@ img{
 
 /* Media Queris for Medium Devices */
 @media screen and(max-width: 1024px){
+  .html, body{
+    overflow-x: hidden;
+  }
   .container{
     width:var(--container-width-md);
   }
