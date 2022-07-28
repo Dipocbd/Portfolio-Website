@@ -18,8 +18,8 @@ const Header = () => {
       </div>
       </div>
       <div className="header__socials">
-    <a href="https://www.linkedin.com/in/dipo-ojo-29957112a/" target="_blank"> <IoLogoLinkedin /></a>
-    <a href="https://github.com/Dipocbd" target="_blank"><GrGithub /></a>
+    <a href="https://www.linkedin.com/in/dipo-ojo-29957112a/" target="_blank" rel="noreferrer"> <IoLogoLinkedin /></a>
+    <a href="https://github.com/Dipocbd" target="_blank" rel="noreferrer"><GrGithub /></a>
     </div>
     </header>
   )
