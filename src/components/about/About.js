@@ -28,8 +28,9 @@ const About = () => {
         </article>
       </div>
       <p>
-        fiojfijaopjajfhsiojopajASCJAIJIJihioIJJVSDNDJks
-        jkvdmsdnviniosnoivndidsvnionddiognmopampmpoMPhh
+        Dipo is a Self-taught Developer in search of an entry level role in a fast paced organization
+        I have experience in creating scalable web applications with attention to design details.
+        I have a Bachelors Degree in Law.
         
       </p>
       <a href="#contact" className='btn btn-primary'>Let's Talk</a>
