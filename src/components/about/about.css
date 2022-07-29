@@ -68,6 +68,7 @@
 .about__cards{
     display:grid;
     grid-template-columns:1fr;
+    
 }
 .about__me{
     width:50%;
@@ -83,7 +84,7 @@
 @media screen and (max-width:600px){
 
     .about__container{
-        grid-template-columns: 1fr;
+        grid-template-columns: repeat(1,1fr);
         gap:1rem;
     }
 
@@ -98,8 +99,9 @@
     }
 
     .about__cards{
-        grid-template-columns: 1fr 1fr;
+        grid-template-columns: repeat(1,1fr);
         gap:1rem;
+    
     }
     .about__content{
        text-align:center;
@@ -109,5 +111,6 @@
     .about__content p{
         margin:1,5rem 0;
     }
+
   }
   
