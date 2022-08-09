@@ -18,7 +18,7 @@ const About = () => {
         <article className ="about__card">
           <FaAward className='about__icon'/>
           <h5>Experience</h5>
-          <small>10 month Working</small>
+          <small>1 Year Working</small>
         </article>
       
         <article className ="about__card">
@@ -28,7 +28,8 @@ const About = () => {
         </article>
       </div>
       <p>
-        Dipo is a Self-taught Developer in search of an entry level role in a fast paced organization
+        I am an experienced Frontend Developer in search of long term contract positions or full time in a fast paced organization 
+        that will allow me to learn more and also to contribute to the to the success of the organization
         I have experience in creating scalable web applications with attention to design details.
         I have a Bachelors Degree in Law.
         
