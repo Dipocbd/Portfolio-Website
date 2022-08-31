@@ -25,23 +25,23 @@ const data  =[
   {
     id:1,
     image:IMG3,
-    title: 'Four Card Challenge',
-    github:'https://github.com/Dipocbd/Four-Card-Frontend-Mentor-Challenge',
-    demo:'https://fourcard-dipo.netlify.app/'
+    title: 'Clipboard Landing Page',
+    github:'https://github.com/Dipocbd/clipboard-Landing-Page',
+    demo:'https://clipboard-dipocbd.netlify.app/'
   },
   {
     id:1,
     image:IMG4,
     title: 'Crypto Fancy Transaction Form',
     github:'https://github.com/Dipocbd/Crypto-Transaction-Form',
-    demo:'https://crypto-transaction-form.vercel.app/',
+    demo:'https://crypto-transaction-form.vercel.app/'
   },
   {
     id:1,
     image:IMG5,
-    title: 'Clipboard Landing Page',
-    github:'https://github.com/Dipocbd/clipboard-Landing-Page',
-    demo:'https://clipboard-dipocbd.netlify.app/'
+    title: 'Four Card Challenge',
+    github:'https://github.com/Dipocbd/Four-Card-Frontend-Mentor-Challenge',
+    demo:'https://fourcard-dipo.netlify.app/'
   },
 ]
 
