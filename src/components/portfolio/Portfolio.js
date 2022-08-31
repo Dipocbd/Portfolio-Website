@@ -4,7 +4,7 @@ import IMG1 from '../../Files/portfolio1.jpg'
 import IMG2 from '../../Files/portfolio2.png'
 import IMG3 from '../../Files/portfolio3.jpg'
 import IMG4 from '../../Files/portfolio4.png'
-import IMG5 from '../../Files/portfolio4.jpg'
+import IMG5 from '../../Files/portfolio5.jpg'
 
 
 const data  =[
