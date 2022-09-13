@@ -25,6 +25,10 @@ const Experience = () => {
           </article>
           <article className="experience__details">
             <AiOutlineCheckCircle className="experience__details-icon" />
+            <h4>Tailwind Css</h4>
+          </article>
+          <article className="experience__details">
+            <AiOutlineCheckCircle className="experience__details-icon" />
             <h4>Javascript</h4>
           </article>
           <article className="experience__details">
