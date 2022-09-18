@@ -1,7 +1,7 @@
 import React from 'react'
 import './header.css'
 import CTA from '../CTA'
-import image from '../../Files/IMG.jpg'
+import image from '../../Assets/IMG.jpg'
 import { IoLogoLinkedin } from 'react-icons/io'
 import{GrGithub} from'react-icons/gr'
 
