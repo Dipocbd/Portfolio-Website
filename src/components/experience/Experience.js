@@ -29,6 +29,14 @@ const Experience = () => {
           </article>
           <article className="experience__details">
             <AiOutlineCheckCircle className="experience__details-icon" />
+            <h4>Styled Components</h4>
+          </article>
+          <article className="experience__details">
+            <AiOutlineCheckCircle className="experience__details-icon" />
+            <h4>Material UI</h4>
+          </article>
+          <article className="experience__details">
+            <AiOutlineCheckCircle className="experience__details-icon" />
             <h4>Javascript</h4>
           </article>
           <article className="experience__details">
@@ -41,9 +49,17 @@ const Experience = () => {
       <div className="experience__backend">
         <h3>Backend Development</h3>
         <div className="experience__content">
+        <article className="experience__details">
+            <AiOutlineCheckCircle className="experience__details-icon" />
+            <h4>Node JS</h4>
+          </article>
           <article className="experience__details">
             <AiOutlineCheckCircle className="experience__details-icon" />
             <h4>Mongo DB</h4>
+          </article>
+          <article className="experience__details">
+            <AiOutlineCheckCircle className="experience__details-icon" />
+            <h4>Express JS</h4>
           </article>
         </div>
       </div>
