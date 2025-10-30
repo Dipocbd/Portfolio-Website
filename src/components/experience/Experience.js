@@ -60,7 +60,11 @@ const Experience = () => {
           <article className="experience__details">
             <AiOutlineCheckCircle className="experience__details-icon" />
             <h4>Express JS</h4>
-          </article>
+            </article>
+            <article className="experience__details">
+            <AiOutlineCheckCircle className="experience__details-icon" />
+            <h4>Supabase</h4>
+            </article>
         </div>
       </div>
     </div>
