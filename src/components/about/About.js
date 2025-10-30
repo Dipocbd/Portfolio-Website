@@ -28,7 +28,7 @@ const About = () => {
         </article>
       </div>
       <p>
-  Software Engineer, CTO at{" "}
+  Software Engineer, CTO and Co-Founder at{" "}
   <a
     href="https://www.trippaafrica.com"
     target="_blank"

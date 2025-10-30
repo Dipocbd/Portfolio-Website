@@ -12,6 +12,7 @@ import IMG6 from '../../Assets/portfolio5.png'
 
 
 const data  =[
+
   {
     id:1,
     image:IMG,
