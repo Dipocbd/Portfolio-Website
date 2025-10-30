@@ -28,10 +28,18 @@ const About = () => {
         </article>
       </div>
       <p>
-        Software Engineer, CTO at a fast paced B2B SAAS Startup in Lagos.
-      
-        
-      </p>
+  Software Engineer, CTO at{" "}
+  <a
+    href="https://www.trippaafrica.com"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="text-blue-600 hover:underline"
+  >
+    Trippa Africa
+  </a>
+  , a fast-paced B2B SAAS Startup in Lagos.
+</p>
+
       <a href="#contact" className='btn btn-primary'>Let's Talk</a>
       </div>
     </div>
