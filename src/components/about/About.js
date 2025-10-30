@@ -18,7 +18,7 @@ const About = () => {
         <article className ="about__card">
           <FaAward className='about__icon'/>
           <h5>Experience</h5>
-          <small>2 Years Working</small>
+          <small>6 Years Working</small>
         </article>
       
         <article className ="about__card">
@@ -28,10 +28,8 @@ const About = () => {
         </article>
       </div>
       <p>
-        I am an experienced Frontend Developer in search of long term contract positions or full time in a fast paced organization 
-        that will allow me to learn more and also to contribute to the to the success of the organization
-        I have experience in creating scalable web applications with attention to design details.
-        I have a Bachelors Degree in Law.
+        Software Engineer, CTO at a fast paced B2B SAAS Startup in Lagos.
+      
         
       </p>
       <a href="#contact" className='btn btn-primary'>Let's Talk</a>
